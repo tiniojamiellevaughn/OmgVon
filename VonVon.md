@@ -4,7 +4,13 @@
 
 ****Jamielle Vaughn Tinio**** ****ITE 105****
 
+
 ## 🗼 About Me
 *I'm a type of person who likes to explore new places, try new foods, and learn other people's culture and tradition.*
+
+## Interest:
+- Travel Around the World 
+- Cafe Hopping
+- Listen to Music
 
 
