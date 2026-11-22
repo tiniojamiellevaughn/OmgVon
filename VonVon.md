@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="YOUR_IMAGE_URL_HERE" width="180" alt="Jamielle Vaughn Tinio">
@@ -11,14 +10,6 @@
 <img src="https://img.shields.io/badge/BSIT_STUDENT-FFE58A?style=for-the-badge&labelColor=8BCDF2&color=FFE58A">
 
 </div>
-
-<p align="center">
-  <img 
-    src="abstract-colorful-background-blue-yellow-white-teal-pastel-skin-light-kids-color-gradiant-illustration-pink-peach-blue-color-gradiant-background-vector.jpg"
-    width="100%"
-    alt="Pastel blue, yellow, and white background"
-  >
-</p>
 
 ---
 
