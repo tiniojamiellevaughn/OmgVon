@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/pastel-background.png"
+    src="abstract-colorful-background-blue-yellow-white-teal-pastel-skin-light-kids-color-gradiant-illustration-pink-peach-blue-color-gradiant-background-vector.jpg"
     width="100%"
     alt="Pastel blue, yellow, and white background"
   >
