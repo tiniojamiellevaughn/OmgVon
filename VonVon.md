@@ -33,7 +33,6 @@ I like working on tasks step by step, trying different solutions, and creating p
 
 <img src="https://img.shields.io/badge/Java-8BCDF2?style=for-the-badge&logo=openjdk&logoColor=263746">
 <img src="https://img.shields.io/badge/Python-FFE58A?style=for-the-badge&logo=python&logoColor=263746">
-<img src="https://img.shields.io/badge/C_Language-8BCDF2?style=for-the-badge&logo=c&logoColor=263746">
 <img src="https://img.shields.io/badge/HTML_&_CSS-FFE58A?style=for-the-badge&logo=html5&logoColor=263746">
 
 </div>
@@ -75,30 +74,6 @@ Here are the laboratory activities and projects I have completed throughout the 
 - 💻 I like discovering how code works and finding ways to solve problems.
 - 🎧 I enjoy listening to music during my free time.
 - 🌱 I believe that small progress can lead to big improvements.
-
----
-
-## ☎️ Click Below to Connect with Me!
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL_ADDRESS">
-<img src="https://img.shields.io/badge/Email-Contact_Me-8BCDF2?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="YOUR_GITHUB_PROFILE">
-<img src="https://img.shields.io/badge/GitHub-Visit_Profile-FFE58A?style=for-the-badge&logo=github&logoColor=263746">
-</a>
-
-<a href="YOUR_FACEBOOK_PROFILE">
-<img src="https://img.shields.io/badge/Facebook-Connect-8BCDF2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-
-<a href="YOUR_INSTAGRAM_PROFILE">
-<img src="https://img.shields.io/badge/Instagram-Follow-FFE58A?style=for-the-badge&logo=instagram&logoColor=263746">
-</a>
-
-</div>
 
 ---
 
