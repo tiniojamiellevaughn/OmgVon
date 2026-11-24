@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jamielle Vaughn Tinio | ITE 105 Java Repository</title>
+  <style>
+    :root {
+      --bg-page: #f4f8fc;
+      --bg-card: #ffffff;
+      --bg-accent-blue: #e6f4fc;
+      --bg-accent-yellow: #fff8dc;
+      --text-main: #263746;
+      --text-muted: #52677a;
+      --border-soft: #dce8f2;
+      --accent-blue: #8bcdf2;
+      --accent-yellow: #ffe58a;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 32px 16px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg-page); /* Change main page background color here */
+      color: var(--text-main);
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+    }
+
+    .section {
+      background-color: var(--bg-card); /* Change card background color here */
+      border: 1px solid var(--border-soft);
+      border-radius: 16px;
+      padding: 28px 32px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 16px rgba(38, 55, 70, 0.05);
+    }
+
+    .hero {
+      text-align: center;
+      background: linear-gradient(135deg, var(--bg-accent-blue), var(--bg-accent-yellow));
+    }
+
+    .hero h1 {
+      margin: 0 0 8px;
+      font-size: 2.2rem;
+    }
+
+    .hero h3 {
+      margin: 0 0 18px;
+      font-weight: 600;
+      color: var(--text-muted);
+    }
+
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    .badges img {
+      height: 28px;
+    }
+
+    h2 {
+      margin-top: 0;
+      margin-bottom: 14px;
+      font-size: 1.45rem;
+      border-bottom: 2px solid var(--bg-accent-blue);
+      padding-bottom: 6px;
+    }
+
+    h3 {
+      margin-top: 20px;
+      margin-bottom: 10px;
+      font-size: 1.1rem;
+      color: var(--text-main);
+    }
+
+    ul {
+      padding-left: 20px;
+      margin: 10px 0 18px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 14px 0 20px;
+      overflow: hidden;
+      border-radius: 10px;
+    }
+
+    th, td {
+      border: 1px solid var(--border-soft);
+      padding: 12px 14px;
+      text-align: left;
+    }
+
+    th {
+      background-color: var(--bg-accent-blue);
+      color: var(--text-main);
+      font-weight: 600;
+    }
+
+    .interests-table th,
+    .interests-table td {
+      text-align: center;
+      width: 33.33%;
+    }
+
+    .interests-table td {
+      background-color: var(--bg-accent-yellow);
+    }
+
+    .center-col {
+      text-align: center;
+      width: 70px;
+    }
+
+    a {
+      color: #1d6fa5;
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .footer {
+      text-align: center;
+      background-color: var(--bg-accent-blue);
+    }
+
+    .footer h3 {
+      margin: 0 0 8px;
+    }
+
+    .footer p {
+      margin: 0;
+      font-weight: 500;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <!-- Header / Hero Section -->
+    <header class="section hero">
+      <h1>Jamielle Vaughn Tinio</h1>
+      <h3>ITE 105 | Java Repository</h3>
+      <div class="badges">
+        <img src="https://img.shields.io/badge/LEARNING%20JAVA%20IN%20NU%20CLARK-8BCDF2?style=for-the-badge&labelColor=FFF1B8&logo=java&logoColor=263746" alt="Learning Java in NU Clark" />
+        <img src="https://img.shields.io/badge/BSIT_STUDENT-FFE58A?style=for-the-badge&labelColor=8BCDF2&color=FFE58A" alt="BSIT Student" />
+      </div>
+    </header>
+
+    <!-- About Me Section -->
+    <section class="section">
+      <h2>🗼 About Me</h2>
+      <ul>
+        <li>I'm a person who likes to explore and travel the world, discover new places, foods, culture and traditions. And I want to know more about how life works in different parts of the world.</li>
+        <li>I like working on tasks step by step, trying different solutions, and creating projects that show what I have learned. My goal is to continue developing my programming skills and gain more experience in the IT field.</li>
+      </ul>
+
+      <h3>💡 My Interests</h3>
+      <table class="interests-table">
+        <thead>
+          <tr>
+            <th>🗼 Traveling</th>
+            <th>💻 Programming</th>
+            <th>✨ New Technologies</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Exploring how websites are made</td>
+            <td>Solving problems through code</td>
+            <td>Learning and trying new tools</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Facts About Me Section -->
+    <section class="section" style="background-color: #fffdf5;">
+      <h2>Facts About Me</h2>
+      <ul>
+        <li>🌻 I enjoy learning new things and exploring my interests.</li>
+        <li>💻 I like discovering how code works and finding ways to solve problems.</li>
+        <li>🎧 I enjoy listening to music during my free time.</li>
+        <li>🌱 I believe that small progress can lead to big improvements.</li>
+      </ul>
+    </section>
+
+    <!-- Programming Languages Section -->
+    <section class="section">
+      <h2>💻 Programming Languages</h2>
+      <div class="badges">
+        <img src="https://img.shields.io/badge/Java-8BCDF2?style=for-the-badge&logo=openjdk&logoColor=263746" alt="Java" />
+        <img src="https://img.shields.io/badge/Python-FFE58A?style=for-the-badge&logo=python&logoColor=263746" alt="Python" />
+        <img src="https://img.shields.io/badge/HTML_%26_CSS-FFE58A?style=for-the-badge&logo=html5&logoColor=263746" alt="HTML and CSS" />
+      </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="section">
+      <h2>📁 My Projects</h2>
+      <p>Here are the laboratory activities and projects I have completed throughout the semester.</p>
+
+      <h3>MIDTERM ACTIVITIES</h3>
+      <table>
+        <thead>
+          <tr>
+            <th class="center-col">No.</th>
+            <th>Laboratory Task</th>
+            <th>Description / Topic</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="center-col">01</td>
+            <td><a href="YOUR_MIDTERM_TASK_1_LINK">Midterm Lab Task #1</a></td>
+            <td>.</td>
+          </tr>
+          <tr>
+            <td class="center-col">02</td>
+            <td><a href="YOUR_MIDTERM_TASK_2_LINK">Midterm Lab Task #2</a></td>
+            <td>.</td>
+          </tr>
+          <tr>
+            <td class="center-col">03</td>
+            <td><a href="YOUR_MIDTERM_TASK_3_LINK">Midterm Lab Task #3</a></td>
+            <td>.</td>
+          </tr>
+          <tr>
+            <td class="center-col">04</td>
+            <td><a href="YOUR_MIDTERM_TASK_4_LINK">Midterm Lab Task #4</a></td>
+            <td>.</td>
+          </tr>
+          <tr>
+            <td class="center-col">05</td>
+            <td><a href="YOUR_MIDTERM_TASK_5_LINK">Midterm Lab Task #5</a></td>
+            <td>.</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>FINAL ACTIVITIES</h3>
+      <table>
+        <thead>
+          <tr>
+            <th class="center-col">No.</th>
+            <th>Laboratory Task</th>
+            <th>Description / Topic</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="center-col">01</td>
+            <td><a href="YOUR_FINAL_TASK_1_LINK">Final Lab Task #1</a></td>
+            <td>.</td>
+          </tr>
+          <tr>
+            <td class="center-col">02</td>
+            <td><a href="YOUR_FINAL_TASK_2_LINK">Final Lab Task #2</a></td>
+            <td>.</td>
+          </tr>
+          <tr>
+            <td class="center-col">03</td>
+            <td><a href="YOUR_FINAL_TASK_3_LINK">Final Lab Task #3</a></td>
+            <td>.</td>
+          </tr>
+          <tr>
+            <td class="center-col">04</td>
+            <td><a href="YOUR_FINAL_TASK_4_LINK">Final Lab Task #4</a></td>
+            <td>.</td>
+          </tr>
+          <tr>
+            <td class="center-col">05</td>
+            <td><a href="YOUR_FINAL_TASK_5_LINK">Final Lab Task #5</a></td>
+            <td>.</td>
+          </tr>
+          <tr>
+            <td class="center-col">06</td>
+            <td><a href="YOUR_FINAL_TASK_6_LINK">Final Lab Task #6</a></td>
+            <td>.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Footer Section -->
+    <footer class="section footer">
+      <h3>Thank you for visiting my portfolio!</h3>
+      <p>☁️ Thank you for visiting my portfolio! 💛</p>
+    </footer>
+
+  </div>
+</body>
+</html>
