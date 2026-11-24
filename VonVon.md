@@ -75,9 +75,7 @@ Here are the laboratory activities and projects I have completed throughout the 
 
 <div align="center">
 
-### ☁️ Thank you for visiting my portfolio! 💛
-
-<sub>Made with ♡ by **Jamielle Vaughn Tinio** | ITE 105</sub>
+### Thank you for visiting my portfolio! 
 
 </div>
 
