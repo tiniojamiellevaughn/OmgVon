@@ -13,15 +13,15 @@
 
 ---
 
-## 🌼 About Me
+## 🗼 About Me
 
-I'm a student who is interested in technology, programming, and learning new things. I enjoy exploring how programs work, solving problems, and improving my skills through practice. I believe that every activity is an opportunity to learn something new and become better.
+- I'm a person who likes to explore and travel the world, discover new places, foods, culture and traditions. And I want to know more about how life works in different parts of the world.
 
-I like working on tasks step by step, trying different solutions, and creating projects that show what I have learned. My goal is to continue developing my programming skills and gain more experience in the IT field.
+- I like working on tasks step by step, trying different solutions, and creating projects that show what I have learned. My goal is to continue developing my programming skills and gain more experience in the IT field.
 
 ### 💡 My Interests
 
-| 🌐 Web Development | 💻 Programming | ✨ New Technologies |
+| 🗼 Traveling | 💻 Programming | ✨ New Technologies |
 |:---:|:---:|:---:|
 | Exploring how websites are made | Solving problems through code | Learning and trying new tools |
 
