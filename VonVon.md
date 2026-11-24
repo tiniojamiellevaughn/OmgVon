@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="YOUR_IMAGE_URL_HERE" width="180" alt="Jamielle Vaughn Tinio">
-
 # Jamielle Vaughn Tinio
 
 ### ITE 105 | Java Repository
@@ -27,6 +25,15 @@
 
 ---
 
+## Facts About Me
+
+- 🌻 I enjoy learning new things and exploring my interests.
+- 💻 I like discovering how code works and finding ways to solve problems.
+- 🎧 I enjoy listening to music during my free time.
+- 🌱 I believe that small progress can lead to big improvements.
+
+---
+
 ## 💻 Programming Languages
 
 <div align="center">
@@ -43,37 +50,26 @@
 
 Here are the laboratory activities and projects I have completed throughout the semester.
 
-### 🌼 MIDTERM ACTIVITIES
+### MIDTERM ACTIVITIES
 
 | No. | Laboratory Task | Description / Topic |
 |:---:|---|---|
-| 01 | [Midterm Lab Task #1](YOUR_MIDTERM_TASK_1_LINK) | Add your activity description here. |
-| 02 | [Midterm Lab Task #2](YOUR_MIDTERM_TASK_2_LINK) | Add your activity description here. |
-| 03 | [Midterm Lab Task #3](YOUR_MIDTERM_TASK_3_LINK) | Add your activity description here. |
-| 04 | [Midterm Lab Task #4](YOUR_MIDTERM_TASK_4_LINK) | Add your activity description here. |
-| 05 | [Midterm Lab Task #5](YOUR_MIDTERM_TASK_5_LINK) | Add your activity description here. |
+| 01 | [Midterm Lab Task #1](YOUR_MIDTERM_TASK_1_LINK) | . |
+| 02 | [Midterm Lab Task #2](YOUR_MIDTERM_TASK_2_LINK) | . |
+| 03 | [Midterm Lab Task #3](YOUR_MIDTERM_TASK_3_LINK) | . |
+| 04 | [Midterm Lab Task #4](YOUR_MIDTERM_TASK_4_LINK) | . |
+| 05 | [Midterm Lab Task #5](YOUR_MIDTERM_TASK_5_LINK) | . |
 
-### ⭐ FINAL ACTIVITIES
+### FINAL ACTIVITIES
 
 | No. | Laboratory Task | Description / Topic |
 |:---:|---|---|
-| 01 | [Final Lab Task #1](YOUR_FINAL_TASK_1_LINK) | Add your activity description here. |
-| 02 | [Final Lab Task #2](YOUR_FINAL_TASK_2_LINK) | Add your activity description here. |
-| 03 | [Final Lab Task #3](YOUR_FINAL_TASK_3_LINK) | Add your activity description here. |
-| 04 | [Final Lab Task #4](YOUR_FINAL_TASK_4_LINK) | Add your activity description here. |
-| 05 | [Final Lab Task #5](YOUR_FINAL_TASK_5_LINK) | Add your activity description here. |
-| 06 | [Final Lab Task #6](YOUR_FINAL_TASK_6_LINK) | Add your activity description here. |
-
-> 💛 **Reminder:** Replace the sample descriptions and link placeholders with your actual activity titles, descriptions, and GitHub links.
-
----
-
-## ✨ Fun Facts About Me
-
-- 🌻 I enjoy learning new things and exploring my interests.
-- 💻 I like discovering how code works and finding ways to solve problems.
-- 🎧 I enjoy listening to music during my free time.
-- 🌱 I believe that small progress can lead to big improvements.
+| 01 | [Final Lab Task #1](YOUR_FINAL_TASK_1_LINK) | . |
+| 02 | [Final Lab Task #2](YOUR_FINAL_TASK_2_LINK) | . |
+| 03 | [Final Lab Task #3](YOUR_FINAL_TASK_3_LINK) | . |
+| 04 | [Final Lab Task #4](YOUR_FINAL_TASK_4_LINK) | . |
+| 05 | [Final Lab Task #5](YOUR_FINAL_TASK_5_LINK) | . |
+| 06 | [Final Lab Task #6](YOUR_FINAL_TASK_6_LINK) | . |
 
 ---
 
